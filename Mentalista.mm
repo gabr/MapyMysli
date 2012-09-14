@@ -60,7 +60,7 @@
 <node CREATED="1347182536321" ID="ID_47865466" MODIFIED="1347182538642" TEXT="pe&#x142;na uwaga"/>
 </node>
 </node>
-<node CREATED="1347182552153" FOLDED="true" ID="ID_948855487" MODIFIED="1347219807959" TEXT="techniki aktywnego s&#x142;uchania">
+<node CREATED="1347182552153" FOLDED="true" ID="ID_948855487" MODIFIED="1347633347492" TEXT="techniki aktywnego s&#x142;uchania">
 <node CREATED="1347182647641" ID="ID_400238178" MODIFIED="1347182649672" TEXT="alternatywa">
 <node CREATED="1347182652689" ID="ID_1934967837" MODIFIED="1347182677725" TEXT="&quot;Co jest w Twoim odczuciu gorsze: napi&#x119;cie emocjonalne czy to,&#xa;&#x17c;e musisz pracowa&#x107; wi&#x119;cej?&quot;"/>
 </node>
@@ -86,7 +86,7 @@
 <node CREATED="1347183175786" ID="ID_705141069" MODIFIED="1347183202405" TEXT="&quot;Jednym s&#x142;owem, gdyby&#x15b; raz jeszcze znalaz&#x142; si&#x119; w podobnej&#xa;systuacji, za nic w &#x15b;wiecie nie zadzwoniby&#x15b; ju&#x17c; do Sandry?!&quot;"/>
 </node>
 </node>
-<node CREATED="1347183213418" FOLDED="true" ID="ID_1587211171" MODIFIED="1347219806532" TEXT="podstawowe zasady komunikacji">
+<node CREATED="1347183213418" FOLDED="true" ID="ID_1587211171" MODIFIED="1347634226108" TEXT="podstawowe zasady komunikacji">
 <node CREATED="1347192188404" ID="ID_357683450" MODIFIED="1347192194530" TEXT="pod&#x105;&#x17c;anie za tokiem my&#x15b;lenia rozm&#xf3;wcy"/>
 <node CREATED="1347192207515" ID="ID_985784605" MODIFIED="1347192211546" TEXT="nastawienie si&#x119; na rozm&#xf3;wce">
 <node CREATED="1347192222083" ID="ID_1409329573" MODIFIED="1347192224477" TEXT="anga&#x17c;uj si&#x119;"/>
@@ -135,7 +135,7 @@
 <node CREATED="1347216795039" ID="ID_803848281" MODIFIED="1347216798844" TEXT="nienaturalny spos&#xf3;b m&#xf3;wienia"/>
 </node>
 </node>
-<node CREATED="1347217381728" FOLDED="true" ID="ID_1518507880" MODIFIED="1347219804243" TEXT="model poczw&#xf3;rnego ucha - kwadrat komunikacyjny">
+<node CREATED="1347217381728" FOLDED="true" ID="ID_1518507880" MODIFIED="1347633007813" TEXT="model poczw&#xf3;rnego ucha - kwadrat komunikacyjny">
 <node CREATED="1347217587576" ID="ID_125617880" MODIFIED="1347217591908" TEXT="poziom rzeczowy">
 <node CREATED="1347217638360" ID="ID_627285972" MODIFIED="1347217645755" TEXT="fakty"/>
 <node CREATED="1347217645976" ID="ID_380099423" MODIFIED="1347217646691" TEXT="dane"/>
@@ -174,25 +174,25 @@
 </node>
 </node>
 </node>
-<node CREATED="1347219406130" FOLDED="true" ID="ID_1290484818" MODIFIED="1347219951678" TEXT="typy ludzi">
+<node CREATED="1347219406130" FOLDED="true" ID="ID_1290484818" MODIFIED="1347633016938" TEXT="typy ludzi">
 <node CREATED="1347219411736" ID="ID_31077029" MODIFIED="1347219424864" TEXT="uwa&#x17c;ne s&#x142;uchanie odkrywa typ cz&#x142;owieka">
 <node CREATED="1347219765307" ID="ID_1421826384" MODIFIED="1347219770066" TEXT="specyficzne s&#x142;ownictwo"/>
 </node>
-<node CREATED="1347219547645" FOLDED="true" ID="ID_1534798628" MODIFIED="1347219915988" TEXT="typ wizualny">
+<node CREATED="1347219547645" FOLDED="true" ID="ID_1534798628" MODIFIED="1347632820858" TEXT="typ wizualny">
 <node CREATED="1347219775547" ID="ID_1704488506" MODIFIED="1347219777773" TEXT="widzie&#x107;"/>
 <node CREATED="1347219777962" ID="ID_608919244" MODIFIED="1347219782299" TEXT="czytelny"/>
 <node CREATED="1347219782525" ID="ID_800819223" MODIFIED="1347219783566" TEXT="jasny"/>
 <node CREATED="1347219788889" ID="ID_1552863767" MODIFIED="1347219790472" TEXT="postrzega&#x107;"/>
 <node CREATED="1347219797533" ID="ID_807988466" MODIFIED="1347219800570" TEXT="niedostrzegalny"/>
 </node>
-<node CREATED="1347219551820" FOLDED="true" ID="ID_1802781416" MODIFIED="1347219916801" TEXT="typ audytywny">
+<node CREATED="1347219551820" FOLDED="true" ID="ID_1802781416" MODIFIED="1347632825098" TEXT="typ audytywny">
 <node CREATED="1347219897617" ID="ID_765720494" MODIFIED="1347219900571" TEXT="g&#x142;o&#x15b;ny"/>
 <node CREATED="1347219900804" ID="ID_1709011295" MODIFIED="1347219901911" TEXT="cichy"/>
 <node CREATED="1347219902390" ID="ID_556432783" MODIFIED="1347219903901" TEXT="s&#x142;ysze&#x107;"/>
 <node CREATED="1347219904134" ID="ID_1353094760" MODIFIED="1347219905686" TEXT="szepta&#x107;"/>
 <node CREATED="1347219911996" ID="ID_377035797" MODIFIED="1347219913988" TEXT="bezg&#x142;o&#x15b;ny"/>
 </node>
-<node CREATED="1347219753561" FOLDED="true" ID="ID_1023763433" MODIFIED="1347219950286" TEXT="typ kinestetyczny">
+<node CREATED="1347219753561" FOLDED="true" ID="ID_1023763433" MODIFIED="1347632827490" TEXT="typ kinestetyczny">
 <node CREATED="1347219929307" ID="ID_1000574106" MODIFIED="1347219930894" TEXT="wyczuwa&#x107;"/>
 <node CREATED="1347219931444" ID="ID_918002128" MODIFIED="1347219932347" TEXT="czu&#x107;"/>
 <node CREATED="1347219932570" ID="ID_709927284" MODIFIED="1347219933928" TEXT="dotykwa&#x107;"/>
@@ -200,12 +200,107 @@
 <node CREATED="1347219942065" ID="ID_111946725" MODIFIED="1347219944857" TEXT="zetkn&#x105;&#x107; si&#x119;"/>
 </node>
 </node>
+<node CREATED="1347633050546" FOLDED="true" ID="ID_670539955" MODIFIED="1347634224973" TEXT="s&#x142;uchanie a sympatia">
+<node CREATED="1347633055425" ID="ID_502249562" MODIFIED="1347633067900" TEXT="im uwa&#x17c;niej s&#x142;uchasz tym wi&#x119;ksz asympatia">
+<node CREATED="1347633079785" ID="ID_1281352732" MODIFIED="1347633086634" TEXT="nie musisz bra&#x107; bardzo aktywnego udzia&#x142;o"/>
+<node CREATED="1347633086849" ID="ID_1722617508" MODIFIED="1347633089716" TEXT="tylko s&#x142;uchaj"/>
 </node>
-<node CREATED="1347181341056" ID="ID_1396233013" MODIFIED="1347181346472" POSITION="left" TEXT="cytaty">
-<node CREATED="1347181348273" ID="ID_1611516607" MODIFIED="1347181410212" TEXT="Przeci&#x119;tny cz&#x142;owiek&#xa;Patrzy, nie widz&#x105;c,&#xa;S&#x142;ucha, nie s&#x142;ysz&#x105;c,&#xa;Dotyka, nie czujac,&#xa;Je, nie smakuj&#x105;c,&#xa;Wdycha, nie zdaj&#x105;c sobie sprawy&#xa;z zapachu ani aromatu.&#xa;~ Leonardo da Vinci"/>
-<node CREATED="1347181564785" ID="ID_1775103623" MODIFIED="1347181646324" TEXT="Ten, kto zna ludzi jest rozs&#x105;dny.&#xa;Znaj&#x105;c siebie jest o&#x15b;wiecony.&#xa;Zwyci&#x119;&#x17c;aj&#x105;cy ludzi - jest silny.&#xa;Zwyci&#x119;&#x17c;aj&#x105;cy siebie - jest mocarny.&#xa;Kto zna dostatek - jest bogaty.&#xa;Kto dzia&#x142;a z uporem posiada wol&#x119;.&#xa;Kto nie traci swej natury - jest d&#x142;ugowieczny.&#xa;Kto umar&#x142;, lecz nie jest zapomniany, ten jest nie&#x15b;miertelny.&#xa;~ Lao Tzu, Ksi&#x119;ga dao i de"/>
+<node CREATED="1347633185993" ID="ID_320379277" MODIFIED="1347633189385" TEXT="wi&#x119;ksze zrozumienie"/>
+<node CREATED="1347633217033" ID="ID_1387985666" MODIFIED="1347633221081" TEXT="od czego zale&#x17c;y sympatia">
+<node CREATED="1347633221817" ID="ID_208915928" MODIFIED="1347633227625" TEXT="podobnie&#x144;stwo"/>
+<node CREATED="1347633228081" ID="ID_302371785" MODIFIED="1347633234153" TEXT="blisko&#x15b;&#x107; (odleg&#x142;o&#x15b;&#x107;)"/>
+<node CREATED="1347633234721" ID="ID_604662262" MODIFIED="1347633239817" TEXT="atrakcyjno&#x15b;&#x107; fizyczna"/>
+<node CREATED="1347633240369" ID="ID_1794923661" MODIFIED="1347633258497" TEXT="wymiana spo&#x142;eczna - zr&#xf3;wnowa&#x17c;one dawanie i branie"/>
+<node CREATED="1347633259025" ID="ID_518520265" MODIFIED="1347633268955" TEXT="pozytywne skojarzenia z osob&#x105;"/>
+<node CREATED="1347633269393" ID="ID_1517963175" MODIFIED="1347633276977" TEXT="sympatia do nas samych !!!"/>
 </node>
-<node CREATED="1347181868353" ID="ID_1563084228" MODIFIED="1347181891292" POSITION="left" TEXT="Kto ma uszy, niechaj s&#x142;ucha!&#xa;~ Ewangelia wed&#x142;ug &#x15b;w. Mateusza, 11:15"/>
-<node CREATED="1347181952793" ID="ID_845775892" MODIFIED="1347181976332" POSITION="left" TEXT="Sukcesu nie powinno si&#x119; na&#x15b;ladowa&#x107;.&#xa;Nale&#x17c;y wychodzi&#x107; mu na przeciw!&#xa;~ Manuel Horeth"/>
+</node>
+<node CREATED="1347633515097" FOLDED="true" ID="ID_1254956345" MODIFIED="1347634223543" TEXT="ludzki filtr">
+<node CREATED="1347633961521" ID="ID_1668448971" MODIFIED="1347633970988" TEXT="w zale&#x17c;no&#x15b;ci od sytuacji aktywuj&#x105; si&#x119; r&#xf3;&#x17c;ne filtry"/>
+<node CREATED="1347633971273" ID="ID_813609810" MODIFIED="1347633973900" TEXT="nie ma dobrych i z&#x142;ych"/>
+<node CREATED="1347633974305" ID="ID_1837927630" MODIFIED="1347634069468" TEXT="to s&#x105; tylko schematy, mog&#x105; si&#x119; miesza&#x107; lub nawet niedostatecznie si&#x119; wykszta&#x142;ci&#x107;/wyostrzy&#x107;"/>
+<node CREATED="1347633544625" ID="ID_1160311599" MODIFIED="1347633550288" TEXT="przyci&#x105;ganie - odpychanie">
+<node CREATED="1347633551569" ID="ID_942081367" MODIFIED="1347633558517" TEXT="motywacja"/>
+<node CREATED="1347633558961" ID="ID_681680903" MODIFIED="1347633569276" TEXT="przyci&#x105;ganie - d&#x105;&#x17c;enie do tego czego si&#x119; pragnie"/>
+<node CREATED="1347633569745" ID="ID_989473484" MODIFIED="1347633586694" TEXT="odpychanie - takie osoby nieustannie m&#xf3;wi&#x105; o tym czego nie maj&#x105;, nie rob&#x105; i nie chc&#x105;"/>
+</node>
+<node CREATED="1347633589297" ID="ID_1653529348" MODIFIED="1347633596603" TEXT="do wewn&#x105;trz - na zewn&#x105;trz">
+<node CREATED="1347633600513" ID="ID_303864308" MODIFIED="1347633606795" TEXT="ocena w&#x142;asnych dzia&#x142;a&#x144;"/>
+<node CREATED="1347633611449" ID="ID_604333382" MODIFIED="1347633613880" TEXT="do wewn&#x105;trz">
+<node CREATED="1347633614457" ID="ID_802484704" MODIFIED="1347633619163" TEXT="brak zainteresowania opini&#x105; innych"/>
+<node CREATED="1347633628905" ID="ID_403513923" MODIFIED="1347633636555" TEXT="wy&#x142;&#x105;cznie w&#x142;asny os&#x105;d"/>
+</node>
+<node CREATED="1347633646641" ID="ID_497896603" MODIFIED="1347633650947" TEXT="na zewn&#x105;trz">
+<node CREATED="1347633651737" ID="ID_450475592" MODIFIED="1347633657491" TEXT="zainteresowanie opini&#x105; innych"/>
+<node CREATED="1347633657777" ID="ID_365775015" MODIFIED="1347633673443" TEXT="przer&#xf3;&#x17c;ne opinie b&#x119;d&#x105; budzi&#x107; w&#x105;tpliwo&#x15b;ci"/>
+</node>
+</node>
+<node CREATED="1347633696673" ID="ID_573846438" MODIFIED="1347633702571" TEXT="proaktywno&#x15b;&#x107; - reaktywno&#x15b;&#x107;">
+<node CREATED="1347633708225" ID="ID_1554781228" MODIFIED="1347633716443" TEXT="jak ludzie kieruj&#x105; swoim &#x17c;yciem"/>
+<node CREATED="1347633716689" ID="ID_1072597974" MODIFIED="1347633719379" TEXT="proaktywny">
+<node CREATED="1347633724209" ID="ID_1847251899" MODIFIED="1347633728475" TEXT="d&#x105;&#x17c;y prosto do celu"/>
+<node CREATED="1347633730897" ID="ID_1312276311" MODIFIED="1347633736012" TEXT="szybko podejmuj&#x105; dzaia&#x142;ania"/>
+<node CREATED="1347633743513" ID="ID_1797839783" MODIFIED="1347633747958" TEXT="nie traci czasu na czekanie"/>
+<node CREATED="1347633750977" ID="ID_1303888677" MODIFIED="1347633753771" TEXT="nie boi si&#x119; nowych zada&#x144;"/>
+</node>
+<node CREATED="1347633756377" ID="ID_463480797" MODIFIED="1347633761419" TEXT="reaktywny">
+<node CREATED="1347633762081" ID="ID_295452987" MODIFIED="1347633779459" TEXT="pozwala by sprawy same si&#x119; toczy&#x142;y"/>
+<node CREATED="1347633781993" ID="ID_146649881" MODIFIED="1347633789203" TEXT="reaguje jedynie gdy jest taka konieczno&#x15b;&#x107;"/>
+</node>
+</node>
+<node CREATED="1347633796001" ID="ID_760211662" MODIFIED="1347633801492" TEXT="podobie&#x144;stwo - r&#xf3;&#x17c;nica">
+<node CREATED="1347633802521" ID="ID_168161359" MODIFIED="1347633852129" TEXT="skupianie si&#x119; raczej na podobie&#x144;stwach, czy r&#xf3;znicach"/>
+</node>
+<node CREATED="1347633862649" ID="ID_894595349" MODIFIED="1347633871131" TEXT="przesz&#x142;o&#x15b;&#x107; - tera&#x17a;niejszo&#x15b;&#x107; - przysz&#x142;o&#x15b;&#x107;"/>
+<node CREATED="1347633905954" ID="ID_1026983203" MODIFIED="1347633910996" TEXT="os&#x105;d - oboj&#x119;tno&#x15b;&#x107;"/>
+<node CREATED="1347633925697" ID="ID_702790864" MODIFIED="1347633929548" TEXT="og&#xf3;&#x142; - szczeg&#xf3;&#x142;"/>
+</node>
+<node CREATED="1347634227490" FOLDED="true" ID="ID_1057782628" MODIFIED="1347634615350" TEXT="magiczne s&#x142;owa">
+<node CREATED="1347634230914" ID="ID_1133653041" MODIFIED="1347634232152" TEXT="ALE">
+<node CREATED="1347634246834" ID="ID_377140501" MODIFIED="1347634258264" TEXT="uniewa&#x17c;nia/kasuje to co by&#x142;o przed nim"/>
+<node CREATED="1347634288274" ID="ID_704561611" MODIFIED="1347634306856" TEXT="&#x142;atwo zast&#x105;pi&#x107; sp&#xf3;jnikiem &quot;i&quot;"/>
+<node CREATED="1347634311010" ID="ID_1397834007" MODIFIED="1347634334605" TEXT="Kwiaty s&#x105; wspania&#x142;a, ALE nast&#x119;pnym razem nie powiniene&#x15b; wydawa&#x107; tyle pieni&#x119;dzy."/>
+</node>
+<node CREATED="1347634337466" ID="ID_882256787" MODIFIED="1347634338536" TEXT="NIE">
+<node CREATED="1347634346354" ID="ID_1972403936" MODIFIED="1347634358317" TEXT="NIE my&#x15b;l teraz o drzewie."/>
+<node CREATED="1347634375314" ID="ID_926254805" MODIFIED="1347634386617" TEXT="pod&#x15b;wiadomo&#x15b;&#x107; nie rozumie, nie akceptuje s&#x142;owa NIE"/>
+<node CREATED="1347634397058" ID="ID_1767659144" MODIFIED="1347634409557" TEXT="NIE zamierzam pali&#x107; = zamierzam pali&#x107; = PALI&#x106; PALI&#x106; PALI&#x106;"/>
+</node>
+<node CREATED="1347634415786" ID="ID_543624301" MODIFIED="1347634420169" TEXT="W&#x141;A&#x15a;CIWIE">
+<node CREATED="1347634422922" ID="ID_1217120219" MODIFIED="1347634439761" TEXT="samo w sobie nie przekazuje informacji"/>
+<node CREATED="1347634449434" ID="ID_1848613939" MODIFIED="1347634455729" TEXT="nie jeste&#x15b; pewien swoich s&#x142;&#xf3;w"/>
+<node CREATED="1347634462698" ID="ID_630668736" MODIFIED="1347634472585" TEXT="pod wypowiedzi&#x105; z W&#x141;A&#x15a;CIWIE kryje si&#x119; co&#x15b; jeszcze"/>
+<node CREATED="1347634477314" ID="ID_1124938226" MODIFIED="1347634482585" TEXT="cz&#x119;sto negatywny wyd&#x17a;wi&#x119;k"/>
+<node CREATED="1347634490458" ID="ID_637596613" MODIFIED="1347634494777" TEXT="staraj si&#x119; nie u&#x17c;ywa&#x107;">
+<node CREATED="1347634495418" ID="ID_626292825" MODIFIED="1347634521525" TEXT="NIE: W&#x142;a&#x15b;ciwie to ch&#x119;tnie ci pomog&#x119;.&#xa;TAK: Ch&#x119;tnie ci pomog&#x119;."/>
+</node>
+</node>
+<node CREATED="1347634524970" ID="ID_938736425" MODIFIED="1347634526433" TEXT="MO&#x17b;E">
+<node CREATED="1347634528842" ID="ID_527271297" MODIFIED="1347634531801" TEXT="wyra&#x17c;a niepweno&#x15b;&#x107;"/>
+<node CREATED="1347634532394" ID="ID_645252468" MODIFIED="1347634535297" TEXT="wr&#x119;cz odmowa"/>
+<node CREATED="1347634545338" ID="ID_57165998" MODIFIED="1347634549537" TEXT="nie u&#x17c;ywaj">
+<node CREATED="1347634549906" ID="ID_1431811117" MODIFIED="1347634560593" TEXT="oznacza brak pewno&#x15b;ci siebie"/>
+<node CREATED="1347634561050" ID="ID_1042635318" MODIFIED="1347634563225" TEXT="brak zdecydowania"/>
+<node CREATED="1347634563474" ID="ID_487485450" MODIFIED="1347634567233" TEXT="oznacza slabo&#x15b;&#x107;"/>
+<node CREATED="1347634567610" ID="ID_1566571625" MODIFIED="1347634571753" TEXT="oszustwo lub przekr&#x119;t"/>
+<node CREATED="1347634573042" ID="ID_822238572" MODIFIED="1347634576626" TEXT="ukrywasz co&#x15b;"/>
+</node>
+</node>
+</node>
+<node CREATED="1347634615954" FOLDED="true" ID="ID_1857009565" MODIFIED="1347634723236" TEXT="intonacja">
+<node CREATED="1347634649658" ID="ID_228741302" MODIFIED="1347634674893" TEXT="Teraz wprowadz&#x119; CI&#x118; do tego eksperymentu.&#xa;(w&#x142;a&#x15b;nie ciebie)"/>
+<node CREATED="1347634675482" ID="ID_240638868" MODIFIED="1347634687637" TEXT="TERAZ wprowadz&#x119; ci&#x119; do tego ekesperymentu.&#xa;(w&#x142;a&#x15b;nie w tej chwili)"/>
+<node CREATED="1347634688570" ID="ID_1846596249" MODIFIED="1347634703926" TEXT="Teraz wprowadz&#x119; ci&#x119; do TEGO eksperymentu.&#xa;(do &#x17c;adnego innego)"/>
+<node CREATED="1347634704666" ID="ID_103767426" MODIFIED="1347634721773" TEXT="Teraz WPROWADZ&#x118; ci&#x119; do tego eksperymentu.&#xa;(ja to zrobi&#x119;, nie b&#x119;dziesz sam)"/>
+</node>
+</node>
+<node CREATED="1347181341056" ID="ID_1396233013" MODIFIED="1347633450313" POSITION="left" TEXT="cytaty">
+<node CREATED="1347181348273" HGAP="109" ID="ID_1611516607" MODIFIED="1347633404048" TEXT="Przeci&#x119;tny cz&#x142;owiek&#xa;Patrzy, nie widz&#x105;c,&#xa;S&#x142;ucha, nie s&#x142;ysz&#x105;c,&#xa;Dotyka, nie czujac,&#xa;Je, nie smakuj&#x105;c,&#xa;Wdycha, nie zdaj&#x105;c sobie sprawy&#xa;z zapachu ani aromatu.&#xa;~ Leonardo da Vinci" VSHIFT="2"/>
+<node CREATED="1347181564785" HGAP="102" ID="ID_1775103623" MODIFIED="1347633394880" TEXT="Ten, kto zna ludzi jest rozs&#x105;dny.&#xa;Znaj&#x105;c siebie jest o&#x15b;wiecony.&#xa;Zwyci&#x119;&#x17c;aj&#x105;cy ludzi - jest silny.&#xa;Zwyci&#x119;&#x17c;aj&#x105;cy siebie - jest mocarny.&#xa;Kto zna dostatek - jest bogaty.&#xa;Kto dzia&#x142;a z uporem posiada wol&#x119;.&#xa;Kto nie traci swej natury - jest d&#x142;ugowieczny.&#xa;Kto umar&#x142;, lecz nie jest zapomniany, ten jest nie&#x15b;miertelny.&#xa;~ Lao Tzu, Ksi&#x119;ga dao i de" VSHIFT="-4"/>
+<node CREATED="1347181868353" HGAP="131" ID="ID_1563084228" MODIFIED="1347633400808" TEXT="Kto ma uszy, niechaj s&#x142;ucha!&#xa;~ Ewangelia wed&#x142;ug &#x15b;w. Mateusza, 11:15" VSHIFT="-15"/>
+<node CREATED="1347181952793" HGAP="89" ID="ID_845775892" MODIFIED="1347633445720" TEXT="Sukcesu nie powinno si&#x119; na&#x15b;ladowa&#x107;.&#xa;Nale&#x17c;y wychodzi&#x107; mu na przeciw!&#xa;~ Manuel Horeth" VSHIFT="-1"/>
+<node CREATED="1347633407217" HGAP="62" ID="ID_1366835138" MODIFIED="1347633448608" TEXT="Sympatia to moc, kt&#xf3;ra pozwala nam do&#x15b;wiadcza&#x107; uczu&#x107; &#x17c;ywych istot.&#xa;Zburzywszy j&#x105;, stajemy si&#x119; bezwzgl&#x119;dni i okrutni.&#xa;~ John Ruskin" VSHIFT="-39"/>
+<node CREATED="1347634729050" ID="ID_163986212" MODIFIED="1347634739214" TEXT="M&#xf3;w, &#x17c;ebym ci&#x119; zobaczy&#x142;!&#xa;~ Sokrates"/>
+</node>
 </node>
 </map>
