@@ -1,15 +1,15 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1347622949358" ID="ID_482084534" MODIFIED="1347622955384" TEXT="Jak zdobywa&#x107;">
-<node CREATED="1347627215750" ID="ID_954151009" MODIFIED="1347627220943" POSITION="right" TEXT="1. Zako&#x144;czenie">
+<node CREATED="1347627215750" FOLDED="true" ID="ID_954151009" MODIFIED="1348311646262" POSITION="right" TEXT="1. Zako&#x144;czenie">
 <node CREATED="1347627221669" ID="ID_1922241102" MODIFIED="1347627232844" TEXT="historia z kwiatem"/>
 <node CREATED="1347627240973" ID="ID_1812925395" MODIFIED="1347627245883" TEXT="kobiety nie wiedz&#x105; co je poci&#x105;ga"/>
 <node CREATED="1347638524893" ID="ID_1749660757" MODIFIED="1347638532331" TEXT="mi&#x142;y != atrakcyjny"/>
 <node CREATED="1347638540069" ID="ID_1456820101" MODIFIED="1347638556952" TEXT="najcz&#x119;&#x15b;ciej to co najbardziej je poci&#x105;ga, jednocze&#x15b;nie je denerwuje"/>
 <node CREATED="1347638570885" ID="ID_1280892898" MODIFIED="1347638605372" TEXT="tu nie chodzi o d&#x105;&#x17c;enie do tego by ci&#x119; lubia&#x142;a - lubi si&#x119; przyjaci&#xf3;&#x142;"/>
 </node>
-<node CREATED="1347638614165" ID="ID_300467335" MODIFIED="1347638617636" POSITION="right" TEXT="2. Wprowadzenie">
-<node CREATED="1347801514351" ID="ID_1314482375" MODIFIED="1347801519948" TEXT="dobre i z&#x142;e uwodzenie">
+<node CREATED="1347638614165" ID="ID_300467335" MODIFIED="1348311687050" POSITION="right" TEXT="2. Wprowadzenie">
+<node CREATED="1347801514351" FOLDED="true" ID="ID_1314482375" MODIFIED="1348311648445" TEXT="dobre i z&#x142;e uwodzenie">
 <node CREATED="1347809305378" ID="ID_1557103882" MODIFIED="1347809312857" TEXT="przedmiotowe traktowanie"/>
 <node CREATED="1347809318693" ID="ID_1059166014" MODIFIED="1347809321402" TEXT="lepsze zrozumienie"/>
 <node CREATED="1347809322048" ID="ID_1102104170" MODIFIED="1347809330083" TEXT="udane zwi&#x105;zki"/>
@@ -18,14 +18,14 @@
 <node CREATED="1347809338013" ID="ID_774959143" MODIFIED="1347809341838" TEXT="rozw&#xf3;j osobisty"/>
 <node CREATED="1347809385963" ID="ID_937983024" MODIFIED="1347809398528" TEXT="trzeba ostro&#x17c;nie pos&#x142;ugiwa&#x107; si&#x119; t&#x105; wiedz&#x105;"/>
 </node>
-<node CREATED="1347809404935" ID="ID_924159594" MODIFIED="1347809409128" TEXT="dwa sk&#x142;adniki sukcesu">
+<node CREATED="1347809404935" FOLDED="true" ID="ID_924159594" MODIFIED="1348311649198" TEXT="dwa sk&#x142;adniki sukcesu">
 <node CREATED="1347809425606" ID="ID_736832781" MODIFIED="1347809430366" TEXT="&#x107;wiczenia w terenie"/>
 <node CREATED="1347809465791" ID="ID_1164892540" MODIFIED="1347809489193" TEXT="wykszta&#x142;cenie odpowiednich cech">
 <node CREATED="1347809490868" ID="ID_1291345973" MODIFIED="1347809497654" TEXT="&lt;-- FUNDAMENT"/>
 </node>
 <node CREATED="1347809475972" ID="ID_1505173346" MODIFIED="1347809479597" TEXT="opanowanie technik"/>
 </node>
-<node CREATED="1347809847481" ID="ID_965447974" MODIFIED="1347809849379" TEXT="o co chodzi">
+<node CREATED="1347809847481" FOLDED="true" ID="ID_965447974" MODIFIED="1348311649918" TEXT="o co chodzi">
 <node CREATED="1347809860085" ID="ID_754590090" MODIFIED="1347809864635" TEXT="tego nikt nie jest &#x15b;wiadomy">
 <node CREATED="1347810051430" ID="ID_902262358" MODIFIED="1347810062180" TEXT="wst&#x119;pna ocena na podstawie wygl&#x105;du i zachowania"/>
 <node CREATED="1347810064796" ID="ID_727893775" MODIFIED="1347810306838" TEXT="ilo&#x15b;&#x107; po&#x15b;wi&#x119;canje uwagi i czasu">
@@ -53,14 +53,42 @@
 <node CREATED="1347811541838" ID="ID_1487369275" MODIFIED="1347811594032" TEXT="rzucanie si&#x119; na drug&#x105; osob&#x119; bez zachamowa&#x144; i wymaga&#x144; &#x15b;wiadczy o desperacji, s&#x142;abo&#x15b;ci i nieatrakcyjno&#x15b;ci (bo atrakcyjne osoby maj&#x105; wyg&#xf3;r i nigdy tak nie reaguj&#x105;)"/>
 </node>
 </node>
-<node CREATED="1347811601727" ID="ID_823007220" MODIFIED="1347811609828" TEXT="klucz do sztuki uwodzenia">
+<node CREATED="1347811601727" FOLDED="true" ID="ID_823007220" MODIFIED="1348311650441" TEXT="klucz do sztuki uwodzenia">
 <node CREATED="1347811619850" ID="ID_1885401044" MODIFIED="1347811635390" TEXT="zademonstrowanie w&#x142;asnej warto&#x15b;ci musi si&#x119; odbywa&#x107; na poziomie pod&#x15b;wiadomym"/>
 <node CREATED="1347812401992" ID="ID_1950428983" MODIFIED="1347812437479" TEXT="rzu&#x107; wyzwanie i okazuj braki zainteresowania"/>
 </node>
-<node CREATED="1347812655195" ID="ID_895780468" MODIFIED="1347812674504" TEXT="najprostsza droga do jej serca">
+<node CREATED="1347812655195" FOLDED="true" ID="ID_895780468" MODIFIED="1348311688573" TEXT="najprostsza droga do jej serca">
 <node CREATED="1347812675891" ID="ID_125353035" MODIFIED="1347812684545" TEXT="spraw by to kobieta zdobywa&#x142;a ciebie"/>
 <node CREATED="1347812691635" ID="ID_255311556" MODIFIED="1347812704203" TEXT="musisz pokaza&#x107;, &#x17c;e jeste&#x15b; czym&#x15b; bardzo warto&#x15b;ciowym, co si&#x119; chce mie&#x107;"/>
+<node CREATED="1348311353136" ID="ID_582672878" MODIFIED="1348311369540" TEXT="okazywanie fa&#x142;szywego ALE FA&#x141;SZYWEGO braku zainteresowania">
+<node CREATED="1348311383816" ID="ID_791789632" MODIFIED="1348311385180" TEXT="dystans"/>
+<node CREATED="1348311385458" ID="ID_1504547889" MODIFIED="1348311390239" TEXT="brak zainteresowania seksualnego"/>
+<node CREATED="1348311390890" ID="ID_1704015472" MODIFIED="1348311399784" TEXT="rozmowa o jej przyjaci&#xf3;&#x142;kach"/>
+<node CREATED="1348311400051" ID="ID_897782278" MODIFIED="1348311416585" TEXT="opowiadanie jej o swoich kumplach - w sensie proponowanie jej ich"/>
+<node CREATED="1348311417699" ID="ID_1774775221" MODIFIED="1348311432798" TEXT="wkr&#x119;canie jej"/>
+<node CREATED="1348311433257" ID="ID_568384304" MODIFIED="1348311439581" TEXT="lekka krytyka"/>
+<node CREATED="1348311584927" ID="ID_408542164" MODIFIED="1348311587837" TEXT="dlaczego to dzia&#x142;a?">
+<node CREATED="1348311589398" ID="ID_1708584993" MODIFIED="1348311603165" TEXT="jej wdzi&#x119;ki, kt&#xf3;re dotychczas dzia&#x142;&#x105;&#x142;y na facet&#xf3;w ciebie nie ruszaj&#x105;"/>
+<node CREATED="1348311603480" ID="ID_346717611" MODIFIED="1348311613595" TEXT="jeste&#x15b; fajny, a nie interesujesz si&#x119; ni&#x105;"/>
+<node CREATED="1348311630883" ID="ID_364884086" MODIFIED="1348311637074" TEXT="wywo&#x142;asz w niej emocje"/>
 </node>
+</node>
+</node>
+</node>
+<node CREATED="1348311711799" ID="ID_837135863" MODIFIED="1348311718822" POSITION="right" TEXT="3. Cz&#x119;&#x15b;&#x107; Pierwsza">
+<node CREATED="1348311741852" ID="ID_447798536" MODIFIED="1348311755208" TEXT="atrakcyjne cechy, postawy, zachowania"/>
+<node CREATED="1348311767423" ID="ID_579359289" MODIFIED="1348311776049" TEXT="kontrolowana skromno&#x15b;&#x107;"/>
+<node CREATED="1348311808704" ID="ID_230311431" MODIFIED="1348311813207" TEXT="dystans i kontrola emocji"/>
+<node CREATED="1348311816402" ID="ID_960049946" MODIFIED="1348311818066" TEXT="prowadzenie"/>
+<node CREATED="1348311821646" ID="ID_392948174" MODIFIED="1348311829305" TEXT="pozytywne nastawienie i entruzjazm"/>
+<node CREATED="1348311833452" ID="ID_1369460562" MODIFIED="1348311842272" TEXT="spontaniczno&#x15b;&#x107;, nieprzewidywalno&#x15b;&#x107;"/>
+<node CREATED="1348311845248" ID="ID_8941120" MODIFIED="1348311849495" TEXT="towarzysko&#x15b;&#x107;"/>
+<node CREATED="1348311852588" ID="ID_340448176" MODIFIED="1348311858411" TEXT="altruizm, empatia"/>
+<node CREATED="1348311861986" ID="ID_1873816414" MODIFIED="1348311863527" TEXT="szczero&#x15b;&#x107;"/>
+<node CREATED="1348311865694" ID="ID_540563573" MODIFIED="1348311867512" TEXT="&#x17c;yczliwo&#x15b;&#x107;"/>
+<node CREATED="1348311870661" ID="ID_217522231" MODIFIED="1348311873031" TEXT="wra&#x17c;liwo&#x15b;&#x107;"/>
+<node CREATED="1348311877394" ID="ID_1603266721" MODIFIED="1348311882919" TEXT="pewno&#x15b;&#x107; siebie"/>
+<node CREATED="1348311889450" ID="ID_382144841" MODIFIED="1348311893841" TEXT="nie imponuj"/>
 </node>
 </node>
 </map>
