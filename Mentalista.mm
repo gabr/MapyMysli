@@ -200,7 +200,7 @@
 <node CREATED="1347219942065" ID="ID_111946725" MODIFIED="1347219944857" TEXT="zetkn&#x105;&#x107; si&#x119;"/>
 </node>
 </node>
-<node CREATED="1347633050546" FOLDED="true" ID="ID_670539955" MODIFIED="1347634224973" TEXT="s&#x142;uchanie a sympatia">
+<node CREATED="1347633050546" FOLDED="true" ID="ID_670539955" MODIFIED="1348635316562" TEXT="s&#x142;uchanie a sympatia">
 <node CREATED="1347633055425" ID="ID_502249562" MODIFIED="1347633067900" TEXT="im uwa&#x17c;niej s&#x142;uchasz tym wi&#x119;ksz asympatia">
 <node CREATED="1347633079785" ID="ID_1281352732" MODIFIED="1347633086634" TEXT="nie musisz bra&#x107; bardzo aktywnego udzia&#x142;o"/>
 <node CREATED="1347633086849" ID="ID_1722617508" MODIFIED="1347633089716" TEXT="tylko s&#x142;uchaj"/>
@@ -293,7 +293,7 @@
 <node CREATED="1347634688570" ID="ID_1846596249" MODIFIED="1347634703926" TEXT="Teraz wprowadz&#x119; ci&#x119; do TEGO eksperymentu.&#xa;(do &#x17c;adnego innego)"/>
 <node CREATED="1347634704666" ID="ID_103767426" MODIFIED="1347634721773" TEXT="Teraz WPROWADZ&#x118; ci&#x119; do tego eksperymentu.&#xa;(ja to zrobi&#x119;, nie b&#x119;dziesz sam)"/>
 </node>
-<node CREATED="1347816277330" ID="ID_1099447196" MODIFIED="1347816280419" TEXT="puls g&#x142;osu">
+<node CREATED="1347816277330" FOLDED="true" ID="ID_1099447196" MODIFIED="1348636513162" TEXT="puls g&#x142;osu">
 <node CREATED="1347816298290" ID="ID_1205591084" MODIFIED="1347816307563" TEXT="komunikacja werbalna to nie tylko mowa">
 <node CREATED="1347816308146" ID="ID_1326426545" MODIFIED="1347816319019" TEXT="7% warstwa s&#x142;owna komunikato"/>
 <node CREATED="1347816319290" ID="ID_1038307820" MODIFIED="1347816325291" TEXT="38% ton g&#x142;osu"/>
@@ -306,7 +306,7 @@
 <node CREATED="1347816774986" ID="ID_1592322334" MODIFIED="1347816778722" TEXT="silna osobowo&#x15b;&#x107;"/>
 <node CREATED="1347816779386" ID="ID_1281176297" MODIFIED="1347816783418" TEXT="wzbudza sympati&#x119;"/>
 </node>
-<node CREATED="1347816785938" ID="ID_796560458" MODIFIED="1347816789682" TEXT="&#x106;WICZENIE">
+<node CREATED="1347816785938" ID="ID_796560458" MODIFIED="1348635398804" TEXT="&#x106;WICZENIE 1">
 <node CREATED="1347816892770" ID="ID_525940519" MODIFIED="1347816897010" TEXT="magiczne odpr&#x119;&#x17c;enie"/>
 <node CREATED="1347816897722" ID="ID_1864014997" MODIFIED="1347816906970" TEXT="stoj&#x105;ca, wyprostowana postawa"/>
 <node CREATED="1347816907230" ID="ID_828478824" MODIFIED="1347816910242" TEXT="zamkni&#x119;te oczy"/>
@@ -330,15 +330,82 @@
 <node CREATED="1347827848577" ID="ID_958465235" MODIFIED="1347827858398" TEXT="uspokaja, wzmacnia cia&#x142;o"/>
 </node>
 </node>
+<node CREATED="1348635400162" ID="ID_502049424" MODIFIED="1348635412364" TEXT="&#x106;WICZENIE 2">
+<node CREATED="1348635419481" ID="ID_329659461" MODIFIED="1348635427791" TEXT="na plecach lub siedz&#x105;co"/>
+<node CREATED="1348635427999" ID="ID_1568195983" MODIFIED="1348635430688" TEXT="PLECY PROSTE"/>
+<node CREATED="1348635431174" ID="ID_280546969" MODIFIED="1348635446240" TEXT="po&#x142;u&#x17c; r&#x119;k&#x119; na brzuchu, drug&#x105; na klatce piersiowej"/>
+<node CREATED="1348635446691" ID="ID_1370889016" MODIFIED="1348635462890" TEXT="oddychaj tak by tylko brzuch si&#x119; porusza&#x142;"/>
+<node CREATED="1348635465972" ID="ID_260388543" MODIFIED="1348635471090" TEXT="swobodnie wypuszczaj powietrze"/>
+<node CREATED="1348635472545" ID="ID_288150687" MODIFIED="1348635481946" TEXT="&#x107;wicz conajmniej 5min dwa razy dziennie">
+<node CREATED="1348635483314" ID="ID_1581358927" MODIFIED="1348635488306" TEXT="im wi&#x119;cej tym lepiej"/>
+<node CREATED="1348635488526" ID="ID_481868168" MODIFIED="1348635501184" TEXT="potrzeba czasu by na sta&#x142;e zmieni&#x107; przyzwyczajenie organizmu"/>
+</node>
+<node CREATED="1348635507462" ID="ID_986880635" MODIFIED="1348635516402" TEXT="ca&#x142;o&#x15b;&#x107; ma si&#x119; odbywa&#x107; w stanie pe&#x142;nej relaksacji"/>
+<node CREATED="1348635521530" ID="ID_524134738" MODIFIED="1348635525921" TEXT="nie przeci&#x105;gaj oddech&#xf3;w"/>
+</node>
+<node CREATED="1348635587292" ID="ID_936127640" MODIFIED="1348635592496" TEXT="oddzia&#x142;ywanie si&#x142;&#x105; g&#x142;osu">
+<node CREATED="1348635593609" ID="ID_1990499550" MODIFIED="1348635612397" TEXT="silny, pewny i &#x17c;ywio&#x142;owy g&#x142;os przyspiesza t&#x119;tno s&#x142;uchacza">
+<node CREATED="1348635659933" ID="ID_805420172" MODIFIED="1348635665325" TEXT="spokojny gl&#x119;boki oddech"/>
+<node CREATED="1348635679997" ID="ID_164502745" MODIFIED="1348635684924" TEXT="odczuwalny szybszy up&#x142;yw czasu"/>
+<node CREATED="1348635729888" ID="ID_1683661526" MODIFIED="1348635751086" TEXT="wewn&#x119;trzna pozytywna postawa bycia wys&#x142;uchanym jest kluczowa"/>
+</node>
+<node CREATED="1348635612679" ID="ID_1238733937" MODIFIED="1348635643511" TEXT="ospa&#x142;y, s&#x142;aby i mul&#x105;cy g&#x142;os zwalnia t&#x119;tno s&#x142;uchacza - s&#x142;uchacz nam zasypia">
+<node CREATED="1348635688201" ID="ID_127495638" MODIFIED="1348635706216" TEXT="czas p&#x142;ynie wolniej - dla s&#x142;uchacza"/>
+</node>
+<node CREATED="1348635769905" ID="ID_973904554" MODIFIED="1348635784870" TEXT="postawa zewn&#x119;trzna ma wp&#x142;yw na g&#x142;os &#x106;WICZENIE">
+<node CREATED="1348635791978" ID="ID_803473419" MODIFIED="1348635797822" TEXT="stopy na szeroko&#x15b;&#x107; bioder"/>
+<node CREATED="1348635798066" ID="ID_734528586" MODIFIED="1348635811316" TEXT="rozlu&#x17a;nione kolana"/>
+<node CREATED="1348635814298" ID="ID_1325624623" MODIFIED="1348635822825" TEXT="sylwetka lekko pochylona do przodu"/>
+<node CREATED="1348635830831" ID="ID_1686051850" MODIFIED="1348635837983" TEXT="tu&#x142;&#xf3;w, krzy&#x17c; i plecy elastyczne"/>
+<node CREATED="1348635842340" ID="ID_1536565668" MODIFIED="1348635848988" TEXT="lu&#x17a;ne ramiona, opuszczone r&#x119;ce"/>
+<node CREATED="1348635852669" ID="ID_61702313" MODIFIED="1348635856876" TEXT="odpr&#x119;&#x17c;enie"/>
+<node CREATED="1348635857257" ID="ID_589372057" MODIFIED="1348635861372" TEXT="oddychanie przepon&#x105;"/>
 </node>
 </node>
-<node CREATED="1347181341056" ID="ID_1396233013" MODIFIED="1347633450313" POSITION="left" TEXT="cytaty">
+<node CREATED="1348635954058" ID="ID_273441640" MODIFIED="1348635960924" TEXT="warto&#x15b;&#x107; g&#x142;osu">
+<node CREATED="1348635968355" ID="ID_1251745715" MODIFIED="1348635972988" TEXT="&quot;zabieranie g&#x142;osu&quot;"/>
+<node CREATED="1348635973441" ID="ID_1274153455" MODIFIED="1348635991308" TEXT="jak wyr&#xf3;&#x17a;ni&#x107; g&#x142;os z po&#x15b;r&#xf3;d mn&#xf3;stwa innych bod&#x17a;c&#xf3;w i informacji"/>
+<node CREATED="1348635998221" ID="ID_333157009" MODIFIED="1348636009051" TEXT="warto&#x15b;&#x107; dodatkowa g&#x142;osu">
+<node CREATED="1348636013374" ID="ID_158253463" MODIFIED="1348636018664" TEXT="p&#x142;aszczyzna brzmienia">
+<node CREATED="1348636024338" ID="ID_1980012094" MODIFIED="1348636026743" TEXT="zrozumia&#x142;o&#x15b;&#x107;"/>
+<node CREATED="1348636027078" ID="ID_896634153" MODIFIED="1348636031083" TEXT="mily d&#x17a;wi&#x119;k"/>
+<node CREATED="1348636033820" ID="ID_481117405" MODIFIED="1348636036851" TEXT="mocne brzmienie"/>
+<node CREATED="1348636041785" ID="ID_1190987403" MODIFIED="1348636043389" TEXT="czysty g&#x142;os"/>
+<node CREATED="1348636052030" ID="ID_1294246595" MODIFIED="1348636057912" TEXT="powinien wzbudza&#x107; pozytywne uczucia"/>
+</node>
+<node CREATED="1348636065265" ID="ID_12027691" MODIFIED="1348636069722" TEXT="p&#x142;aszczyzna relacji">
+<node CREATED="1348636077332" ID="ID_1140453447" MODIFIED="1348636107631" TEXT="g&#x142;os powinien dawa&#x107; poczucie">
+<node CREATED="1348636086903" ID="ID_1143609036" MODIFIED="1348636111432" TEXT="zaufanie"/>
+<node CREATED="1348636089170" ID="ID_1672764780" MODIFIED="1348636118407" TEXT="pewno&#x15b;ci siebie"/>
+<node CREATED="1348636097597" ID="ID_1360719206" MODIFIED="1348636121265" TEXT="bezpiecze&#x144;stwa"/>
+</node>
+<node CREATED="1348636124958" ID="ID_1068351411" MODIFIED="1348636129232" TEXT="odpr&#x119;&#x17c;enie i relaks"/>
+<node CREATED="1348636138452" ID="ID_1569267946" MODIFIED="1348636142039" TEXT="pelny i ciep&#x142;y g&#x142;os"/>
+</node>
+<node CREATED="1348636146243" ID="ID_992168419" MODIFIED="1348636149694" TEXT="p&#x142;aszczyzna tre&#x15b;ci">
+<node CREATED="1348636154720" ID="ID_1638471659" MODIFIED="1348636157372" TEXT="przejrzysto&#x15b;&#x107;"/>
+<node CREATED="1348636157635" ID="ID_246244960" MODIFIED="1348636167295" TEXT="kompletno&#x15b;&#x107;"/>
+<node CREATED="1348636167784" ID="ID_1323992548" MODIFIED="1348636170933" TEXT="wiarygodno&#x15b;&#x107;"/>
+<node CREATED="1348636175360" ID="ID_1051063282" MODIFIED="1348636178435" TEXT="si&#x142;a przekonania"/>
+</node>
+</node>
+<node CREATED="1348636221574" ID="ID_195079732" MODIFIED="1348636231779" TEXT="rozszerz g&#x142;os na wszystkie strony"/>
+</node>
+</node>
+<node CREATED="1347181341056" FOLDED="true" ID="ID_1396233013" MODIFIED="1348636601222" TEXT="cytaty">
 <node CREATED="1347181348273" HGAP="109" ID="ID_1611516607" MODIFIED="1347633404048" TEXT="Przeci&#x119;tny cz&#x142;owiek&#xa;Patrzy, nie widz&#x105;c,&#xa;S&#x142;ucha, nie s&#x142;ysz&#x105;c,&#xa;Dotyka, nie czujac,&#xa;Je, nie smakuj&#x105;c,&#xa;Wdycha, nie zdaj&#x105;c sobie sprawy&#xa;z zapachu ani aromatu.&#xa;~ Leonardo da Vinci" VSHIFT="2"/>
 <node CREATED="1347181564785" HGAP="102" ID="ID_1775103623" MODIFIED="1347633394880" TEXT="Ten, kto zna ludzi jest rozs&#x105;dny.&#xa;Znaj&#x105;c siebie jest o&#x15b;wiecony.&#xa;Zwyci&#x119;&#x17c;aj&#x105;cy ludzi - jest silny.&#xa;Zwyci&#x119;&#x17c;aj&#x105;cy siebie - jest mocarny.&#xa;Kto zna dostatek - jest bogaty.&#xa;Kto dzia&#x142;a z uporem posiada wol&#x119;.&#xa;Kto nie traci swej natury - jest d&#x142;ugowieczny.&#xa;Kto umar&#x142;, lecz nie jest zapomniany, ten jest nie&#x15b;miertelny.&#xa;~ Lao Tzu, Ksi&#x119;ga dao i de" VSHIFT="-4"/>
 <node CREATED="1347181868353" HGAP="131" ID="ID_1563084228" MODIFIED="1347633400808" TEXT="Kto ma uszy, niechaj s&#x142;ucha!&#xa;~ Ewangelia wed&#x142;ug &#x15b;w. Mateusza, 11:15" VSHIFT="-15"/>
 <node CREATED="1347181952793" HGAP="89" ID="ID_845775892" MODIFIED="1347633445720" TEXT="Sukcesu nie powinno si&#x119; na&#x15b;ladowa&#x107;.&#xa;Nale&#x17c;y wychodzi&#x107; mu na przeciw!&#xa;~ Manuel Horeth" VSHIFT="-1"/>
 <node CREATED="1347633407217" HGAP="62" ID="ID_1366835138" MODIFIED="1347633448608" TEXT="Sympatia to moc, kt&#xf3;ra pozwala nam do&#x15b;wiadcza&#x107; uczu&#x107; &#x17c;ywych istot.&#xa;Zburzywszy j&#x105;, stajemy si&#x119; bezwzgl&#x119;dni i okrutni.&#xa;~ John Ruskin" VSHIFT="-39"/>
 <node CREATED="1347634729050" ID="ID_163986212" MODIFIED="1347634739214" TEXT="M&#xf3;w, &#x17c;ebym ci&#x119; zobaczy&#x142;!&#xa;~ Sokrates"/>
+<node CREATED="1348636516255" ID="ID_1714395065" MODIFIED="1348636552630" TEXT="Twoje s&#x142;owa s&#x105; lamp&#x105; dla moich st&#xf3;p i &#x15b;wiat&#x142;em na mojej &#x15b;cie&#x17c;ce.&#xa;~ Psalm 119, 105"/>
+</node>
+</node>
+<node CREATED="1348636610107" ID="ID_1245076229" MODIFIED="1348636611628" POSITION="left" TEXT="DOTYK">
+<node CREATED="1348636612915" ID="ID_1146455697" MODIFIED="1348636615378" TEXT="cytaty">
+<node CREATED="1348636631531" ID="ID_1496003052" MODIFIED="1348636676275" TEXT="Czego nie dotkniesz, to ci&#x119; nie uderza.&#xa;~ Faus, Johann Wolfgang Goethe"/>
+</node>
 </node>
 </node>
 </map>
